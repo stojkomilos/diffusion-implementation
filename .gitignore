@@ -7,3 +7,6 @@ venv/
 
 # Ignore all files in the mnist_data directory
 mnist_data/
+
+# Ignore lokal folder
+lokal/
